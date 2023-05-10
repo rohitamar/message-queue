@@ -1,0 +1,24 @@
+{
+  "name": "stock-ticker",
+  "version": "1.0.0",
+  "description": "stocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitamar/message-queue.git"
+  },
+  "author": "Rohit Amarnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitamar/message-queue/issues"
+  },
+  "homepage": "https://github.com/rohitamar/message-queue#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "finnhub": "^1.2.17",
+    "ws": "^8.13.0"
+  }
+}
